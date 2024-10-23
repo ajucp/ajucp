@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **RestApi**
 
-- 👨‍💻 All of my projects are available at [[Github Repo(https://github.com/ajucp?tab=repositories)]([Github Repo(https://github.com/ajucp?tab=repositories))
+- 👨‍💻 All of my projects are available at [GitHub Repos](https://github.com/ajucp?tab=repositories)
 
 - 💬 Ask me about **Nodejs**
 
